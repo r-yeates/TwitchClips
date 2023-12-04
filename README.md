@@ -9,7 +9,8 @@ TwitchClips is a Python script for downloading Twitch clips, rendering them, and
    git clone https://github.com/ryeates/TwitchClips.git
 
 2. Install the required dependencies:
-    ```pip install -r requirements.txt
+    ```
+    pip install -r requirements.txt
 
 ## Configuration
 1. Obtain Twitch API credentials by creating an application on the Twitch Developer portal.
