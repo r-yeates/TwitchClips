@@ -1,0 +1,4 @@
+requests==2.26.0
+moviepy==1.0.3
+opplast==1.0.14
+tiktok_uploader==1.0.14
